@@ -831,5 +831,3 @@
         "definition": "A form of zero-knowledge proof that enables one party to prove possession of certain information without revealing it, enhancing privacy.",
         "example": "Zcash uses ZK-SNARKs to offer users private transactions while still being verified by the network."
     },
-
-    };
