@@ -1,5 +1,5 @@
 {
- "Aave": {
+    "Aave": {
         "definition": "A decentralized lending and borrowing protocol that allows users to earn interest on deposits and borrow assets.",
         "example": "I lend my Ethereum on Aave and earn interest in return."
     },
@@ -78,7 +78,7 @@
     "Basic Attention Token": {
         "definition": "A token used in the Brave browser ecosystem to reward users and advertisers.",
         "example": "I earn Basic Attention Tokens for opting into ads while using the Brave browser."
-      },
+    },
     "Bear Market": {
         "definition": "A prolonged period of falling cryptocurrency prices and negative market sentiment.",
         "example": "Many investors HODL through bear markets, waiting for a recovery."
@@ -130,7 +130,7 @@
     "Burn": {
         "definition": "The process of permanently removing tokens from circulation to reduce supply.",
         "example": "The project burns tokens regularly to maintain scarcity and drive up the price."
-    }, 
+    },
     "Cardano": {
         "definition": "A blockchain platform focused on security, scalability, and sustainability.",
         "example": "Cardano’s ADA token is used for staking and governance."
@@ -177,9 +177,9 @@
     },
     "Cryptojacking": {
         "definition": "The unauthorized use of someone’s computer to mine cryptocurrencies.",
-        "example": "My computer was infected with cryptojacking malware, which slowed down its performance."{
-   },
-      "DAO": {
+        "example": "My computer was infected with cryptojacking malware, which slowed down its performance."
+    },
+    "DAO": {
         "definition": "An organization governed by smart contracts and community voting rather than centralized leadership.",
         "example": "The DAO voted on how to allocate funds for future development."
     },
@@ -218,8 +218,8 @@
     "Dusting Attack": {
         "definition": "An attack where small amounts of cryptocurrency are sent to wallets to track activity and de-anonymize users.",
         "example": "A dusting attack was used to trace my Bitcoin transactions."
-  {
-    },"Elliptic Curve Cryptography": {
+    },
+    "Elliptic Curve Cryptography": {
         "definition": "A cryptographic method used to secure blockchain transactions by generating public and private keys.",
         "example": "Bitcoin uses elliptic curve cryptography for its key generation."
     },
@@ -306,7 +306,7 @@
     "GPU Mining": {
         "definition": "The process of using a computer’s graphics processing unit (GPU) to mine cryptocurrencies.",
         "example": "I set up a GPU mining rig to mine Ethereum efficiently."
-  },
+    },
     "Halving": {
         "definition": "An event where the reward for mining new blocks is cut in half, reducing the supply of new cryptocurrency.",
         "example": "Bitcoin’s next halving will reduce the block reward from 6.25 BTC to 3.125 BTC."
@@ -830,4 +830,5 @@
     "ZK-SNARK": {
         "definition": "A form of zero-knowledge proof that enables one party to prove possession of certain information without revealing it, enhancing privacy.",
         "example": "Zcash uses ZK-SNARKs to offer users private transactions while still being verified by the network."
-    },
+    }
+}
